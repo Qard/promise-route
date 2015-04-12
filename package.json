@@ -1,0 +1,25 @@
+{
+  "name": "promise-route",
+  "description": "Turn a promise-returning function into a route handler",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "prepublish": "gulp build",
+    "test": "gulp test"
+  },
+  "author": "Stephen Belanger <admin@stephenbelanger.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel": "~5.0.12",
+    "bluebird": "~2.9.16",
+    "express": "~4.12.3",
+    "gulp": "~3.8.11",
+    "gulp-babel": "~5.1.0",
+    "gulp-mocha": "~2.0.1",
+    "koa": "~0.18.1",
+    "koa-router": "~4.2.0",
+    "mocha": "~2.2.4",
+    "should": "~5.2.0",
+    "supertest": "~0.15.0"
+  }
+}
