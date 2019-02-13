@@ -1,5 +1,7 @@
 # promise-route
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Qard/promise-route.svg)](https://greenkeeper.io/)
+
 ### Usage
 
 Consider a promise returning function such as this:
